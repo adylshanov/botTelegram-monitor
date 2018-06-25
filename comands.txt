@@ -1,0 +1,5 @@
+start - Начало работы с ботом
+status - статус системы
+shell - консоль
+client - кол-во клиентов на прокси
+statis_prox - график user/time

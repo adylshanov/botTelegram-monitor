@@ -1,0 +1,160 @@
+Date: 2018-06-25 07:19:26.211415, User:Adylshanov):  e 
+Date: 2018-06-25 07:19:27.510861, User:Adylshanov):  ew 
+Date: 2018-06-25 07:19:39.878813, User:Adylshanov):  ewewe 
+Date: 2018-06-25 07:19:43.016153, User:Adylshanov):  /status 
+Date: 2018-06-25 07:20:52.456439, User:Adylshanov):  sd 
+Date: 2018-06-25 07:20:54.728917, User:Adylshanov):  /status 
+Date: 2018-06-25 07:21:58.598134, User:Adylshanov):  /status 
+Date: 2018-06-25 07:22:27.701560, User:Adylshanov):  /status 
+Date: 2018-06-25 07:23:10.409228, User:Adylshanov):  /status 
+Date: 2018-06-25 07:26:19.395228, User:Adylshanov):  /status 
+Date: 2018-06-25 09:07:51.941703, User:Adylshanov):  /status 
+Date: 2018-06-25 09:07:58.575448, User:Adylshanov):  /shell 
+Date: 2018-06-25 09:08:07.669258, User:Adylshanov):  ls 
+Date: 2018-06-25 09:13:28.485430, User:Adylshanov):  exit() 
+Date: 2018-06-25 09:13:42.375580, User:Adylshanov):  exit 
+Date: 2018-06-25 09:13:48.934804, User:Adylshanov):  /status 
+Date: 2018-06-25 10:14:10.983268, User:Adylshanov):  /shell 
+Date: 2018-06-25 10:14:10.983453, User:Adylshanov):  /shell 
+Date: 2018-06-25 10:14:15.964099, User:Adylshanov):  ls 
+Date: 2018-06-25 10:14:15.964283, User:Adylshanov):  ls 
+Date: 2018-06-25 10:14:18.708231, User:Adylshanov):  cd .. 
+Date: 2018-06-25 10:14:18.708435, User:Adylshanov):  cd .. 
+Date: 2018-06-25 10:14:49.566024, User:Adylshanov):  ls 
+Date: 2018-06-25 10:14:49.566200, User:Adylshanov):  ls 
+Date: 2018-06-25 10:14:53.201190, User:Adylshanov):  exit 
+Date: 2018-06-25 10:14:53.201375, User:Adylshanov):  exit 
+Date: 2018-06-25 10:16:44.187868, User:Adylshanov):  /shell 
+Date: 2018-06-25 10:16:44.188056, User:Adylshanov):  /shell 
+Date: 2018-06-25 10:16:46.255056, User:Adylshanov):  ls 
+Date: 2018-06-25 10:16:46.255278, User:Adylshanov):  ls 
+Date: 2018-06-25 10:16:48.970119, User:Adylshanov):  cd .. 
+Date: 2018-06-25 10:16:48.970306, User:Adylshanov):  cd .. 
+Date: 2018-06-25 10:18:09.357930, User:Adylshanov):  /shell 
+Date: 2018-06-25 10:18:09.358277, User:Adylshanov):  /shell 
+Date: 2018-06-25 10:18:11.772518, User:Adylshanov):  ls 
+Date: 2018-06-25 10:18:11.772711, User:Adylshanov):  ls 
+Date: 2018-06-25 10:18:20.732462, User:Adylshanov):  cd /home/ 
+Date: 2018-06-25 10:18:20.732657, User:Adylshanov):  cd /home/ 
+Date: 2018-06-25 10:18:22.591770, User:Adylshanov):  ls 
+Date: 2018-06-25 10:18:22.591970, User:Adylshanov):  ls 
+Date: 2018-06-25 10:18:39.124390, User:Adylshanov):  cd .. 
+Date: 2018-06-25 10:18:39.124718, User:Adylshanov):  cd .. 
+Date: 2018-06-25 10:20:44.522647, User:Adylshanov):  /shell 
+Date: 2018-06-25 10:20:44.522886, User:Adylshanov):  /shell 
+Date: 2018-06-25 10:23:10.860720, User:Adylshanov):  /shell 
+Date: 2018-06-25 10:23:10.860905, User:Adylshanov):  /shell 
+Date: 2018-06-25 10:23:16.711759, User:Adylshanov):  pwd 
+Date: 2018-06-25 10:23:16.711940, User:Adylshanov):  pwd 
+Date: 2018-06-25 10:23:19.074201, User:Adylshanov):  ls 
+Date: 2018-06-25 10:23:19.074417, User:Adylshanov):  ls 
+Date: 2018-06-25 10:23:21.126129, User:Adylshanov):  cd .. 
+Date: 2018-06-25 10:23:21.126359, User:Adylshanov):  cd .. 
+Date: 2018-06-25 10:24:21.946076, User:Adylshanov):  exit 
+Date: 2018-06-25 10:24:21.946290, User:Adylshanov):  exit 
+Date: 2018-06-25 10:24:24.263013, User:Adylshanov):  ls 
+Date: 2018-06-25 10:24:24.263208, User:Adylshanov):  ls 
+Date: 2018-06-25 10:30:23.852574, User:Adylshanov):  /shell 
+Date: 2018-06-25 10:30:23.852751, User:Adylshanov):  /shell 
+Date: 2018-06-25 10:30:28.310877, User:Adylshanov):  ls 
+Date: 2018-06-25 10:30:28.311120, User:Adylshanov):  ls 
+Date: 2018-06-25 10:36:41.536301, User:Adylshanov):  /shell 
+Date: 2018-06-25 10:36:41.536523, User:Adylshanov):  /shell 
+Date: 2018-06-25 10:38:04.709586, User:Adylshanov):  /shell 
+Date: 2018-06-25 10:38:04.709772, User:Adylshanov):  /shell 
+Date: 2018-06-25 10:38:11.083080, User:Adylshanov):  ls 
+Date: 2018-06-25 10:38:11.083561, User:Adylshanov):  ls 
+Date: 2018-06-25 10:38:37.607295, User:Adylshanov):  exit 
+Date: 2018-06-25 10:38:37.607506, User:Adylshanov):  exit 
+Date: 2018-06-25 10:38:45.061654, User:Adylshanov):  exit 
+Date: 2018-06-25 10:38:45.061876, User:Adylshanov):  exit 
+Date: 2018-06-25 10:41:19.784684, User:Adylshanov):  /shell 
+Date: 2018-06-25 10:41:19.784900, User:Adylshanov):  /shell 
+Date: 2018-06-25 10:41:33.823809, User:Adylshanov):  ls 
+Date: 2018-06-25 10:41:33.824019, User:Adylshanov):  ls 
+Date: 2018-06-25 10:41:42.173441, User:Adylshanov):  exit 
+Date: 2018-06-25 10:41:42.173986, User:Adylshanov):  exit 
+Date: 2018-06-25 10:41:42.431290, User:Adylshanov):  ls 
+Date: 2018-06-25 10:41:42.431453, User:Adylshanov):  ls 
+Date: 2018-06-25 10:51:13.568842, User:Adylshanov):  www 
+Date: 2018-06-25 10:51:13.569057, User:Adylshanov):  www 
+Date: 2018-06-25 10:51:16.274033, User:Adylshanov):  w 
+Date: 2018-06-25 10:51:16.274207, User:Adylshanov):  w 
+Date: 2018-06-25 10:52:17.568554, User:Adylshanov):  eee 
+Date: 2018-06-25 10:52:19.743073, User:Adylshanov):  e 
+Date: 2018-06-25 11:04:44.712539, User:37316729@Elena):  Пожалуйста 
+Date: 2018-06-25 11:04:45.073537, User:37316729@Elena):  Буду 
+Date: 2018-06-25 11:04:45.134861, User:37316729@Elena):  Писать 
+Date: 2018-06-25 11:04:58.389514, User:37316729@Elena):  Сам уходи 
+Date: 2018-06-25 11:05:06.740032, User:37316729@Elena):  Заело 
+Date: 2018-06-25 11:05:49.890716, User:37316729@Elena):  Хватит? 
+Date: 2018-06-25 11:09:50.958587, User:37316729@ElenaOnoprienko):  Я тут одна? 
+Date: 2018-06-25 11:09:59.027022, User:37316729@ElenaOnoprienko):  Не уйду ))) 
+Date: 2018-06-25 11:10:04.393106, User:37316729@ElenaOnoprienko):  Буду 
+Date: 2018-06-25 11:10:11.733396, User:37316729@ElenaOnoprienko):  Писать 
+Date: 2018-06-25 11:10:12.099324, User:37316729@ElenaOnoprienko):  Медленно 
+Date: 2018-06-25 11:10:13.658380, User:37316729@ElenaOnoprienko):  По 
+Date: 2018-06-25 11:10:16.399632, User:37316729@ElenaOnoprienko):  Одному 
+Date: 2018-06-25 11:10:18.398197, User:37316729@ElenaOnoprienko):  Славу 
+Date: 2018-06-25 11:10:21.921184, User:37316729@ElenaOnoprienko):  Слову 
+Date: 2018-06-25 11:17:58.449725, User:1684601@Damir):  /shell 
+Date: 2018-06-25 11:18:13.354008, User:1684601@Damir):  ls 
+Date: 2018-06-25 11:18:17.443184, User:1684601@Damir):  exit 
+Date: 2018-06-25 11:36:12.033862, User:121461348@Maxim Krolivets):  /start 
+Date: 2018-06-25 11:36:24.654783, User:121461348@Maxim Krolivets):  Сюда писать то надо ? 
+Date: 2018-06-25 11:44:27.808603, User:1684601@Damir):  😆 
+Date: 2018-06-25 11:46:29.552992, User:1684601@Damir):  😇 
+Date: 2018-06-25 12:20:12.340981, User:1684601@Damir):  /client 
+Date: 2018-06-25 12:21:11.879012, User:1684601@Damir):  /client 
+Date: 2018-06-25 12:21:52.645312, User:1684601@Damir):  /start 
+Date: 2018-06-25 12:21:56.952615, User:1684601@Damir):  /start 
+Date: 2018-06-25 12:21:58.703676, User:1684601@Damir):  client 
+Date: 2018-06-25 12:22:06.727898, User:1684601@Damir):  /client 
+Date: 2018-06-25 12:24:50.610767, User:1684601@Damir):  /client 
+Date: 2018-06-25 12:25:16.711848, User:1684601@Damir):  /client 
+Date: 2018-06-25 12:25:53.076589, User:1684601@Damir):  /client 
+Date: 2018-06-25 12:26:42.735438, User:1684601@Damir):  /client 
+Date: 2018-06-25 12:27:27.429730, User:1684601@Damir):  /client 
+Date: 2018-06-25 12:27:49.521601, User:1684601@Damir):  /client 
+Date: 2018-06-25 14:17:47.443167, User:1684601@Damir):  /status 
+Date: 2018-06-25 14:55:11.886383, User:1684601@Damir):  /statis_prox 
+Date: 2018-06-25 14:56:14.787161, User:1684601@Damir):  /statis_prox 
+Date: 2018-06-25 14:57:07.659333, User:1684601@Damir):  /status 
+Date: 2018-06-25 14:57:09.550299, User:1684601@Damir):  /statis_prox 
+Date: 2018-06-25 14:57:49.730538, User:1684601@Damir):  /statis_prox 
+Date: 2018-06-25 14:58:34.716042, User:1684601@Damir):  /statis_prox 
+Date: 2018-06-25 15:04:50.452270, User:1684601@Damir):  /statis_prox 
+Date: 2018-06-25 15:09:23.085293, User:1684601@Damir):  /statis_prox 
+Date: 2018-06-25 15:10:10.284538, User:1684601@Damir):  /statis_prox 
+Date: 2018-06-25 15:11:03.973197, User:1684601@Damir):  /statis_prox 
+Date: 2018-06-25 15:20:00.652558, User:1684601@Damir):  /statis_prox 
+Date: 2018-06-25 15:20:42.280660, User:1684601@Damir):  /statis_prox 
+Date: 2018-06-25 15:21:32.838185, User:1684601@Damir):  /statis_prox 
+Date: 2018-06-25 15:32:14.464114, User:1684601@Damir):  /statis_prox 
+Date: 2018-06-25 15:32:42.740053, User:1684601@Damir):  /statis_prox 
+Date: 2018-06-25 15:49:18.514995, User:1684601@Damir):  /shell 
+Date: 2018-06-25 15:49:38.630995, User:1684601@Damir):  ping 8.8.8.8 
+Date: 2018-06-25 15:52:25.894053, User:1684601@Damir):  ping 8.8.8.8 -c 2\ 
+Date: 2018-06-25 15:52:47.965728, User:1684601@Damir):  ping 8.8.8.8 -c 2 
+Date: 2018-06-25 15:52:56.461846, User:1684601@Damir):  ping 8.8.8.8 -c 2 
+Date: 2018-06-25 15:53:26.240476, User:1684601@Damir):  /shell 
+Date: 2018-06-25 15:53:31.713557, User:1684601@Damir):  ping 8.8.8.8 -c 2 
+Date: 2018-06-25 15:54:29.153463, User:1684601@Damir):  exit 
+Date: 2018-06-25 16:07:57.712362, User:1684601@Damir):  exit 
+Date: 2018-06-25 16:08:03.212412, User:1684601@Damir):  /shell 
+Date: 2018-06-25 16:08:06.351747, User:1684601@Damir):  ls 
+Date: 2018-06-25 16:08:08.010440, User:1684601@Damir):  Stop 
+Date: 2018-06-25 16:08:09.894734, User:1684601@Damir):  Stop 
+Date: 2018-06-25 16:08:18.370410, User:1684601@Damir):  exit 
+Date: 2018-06-25 16:08:25.660462, User:1684601@Damir):  Stop 
+Date: 2018-06-25 16:08:25.922784, User:1684601@Damir):  Stop 
+Date: 2018-06-25 16:08:25.998123, User:1684601@Damir):  Stop 
+Date: 2018-06-25 16:08:26.070094, User:1684601@Damir):  Stop 
+Date: 2018-06-25 16:08:26.129628, User:1684601@Damir):  Stop 
+Date: 2018-06-25 16:08:26.191183, User:1684601@Damir):  Stop 
+Date: 2018-06-25 16:08:26.251076, User:1684601@Damir):  Stop 
+Date: 2018-06-25 16:17:39.469607, User:478204689@Анастасия):  Привет!) 
+Date: 2018-06-25 16:17:56.481548, User:1684601@Damir):  /client 
+Date: 2018-06-25 16:17:59.823391, User:1684601@Damir):  /client 
+Date: 2018-06-25 16:18:02.492630, User:1684601@Damir):  /status 
+Date: 2018-06-25 16:18:06.572930, User:1684601@Damir):  /statis_prox 
